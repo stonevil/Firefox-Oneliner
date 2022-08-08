@@ -1,6 +1,12 @@
 # Firefox Oneliner
 
 
+## Screenshot
+
+
+![screenshot](https://github.com/stonevil/Firefox-Oneliner/blob/main/assets/screenshot.png?raw=true)
+
+
 ## Features
 
 - **Minimal**: Oneline Proton has been made trying to keep all the Proton experience, but with a cleaner interface.
